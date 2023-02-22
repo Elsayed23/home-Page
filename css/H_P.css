@@ -162,4 +162,8 @@ body {
     .H-page .nav .container {
         justify-content: space-between;
     }
+        .content h2 {
+        font-size: 20px;
+        min-width: 299px;
+    }
 }
